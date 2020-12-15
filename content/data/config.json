@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "description": "A minimal blogging theme for Stackbit",
     "header": {
-        "title": "Juri Eddy Yoga",
+        "title": "YT Site",
         "tagline": "Minimal and clean blog theme",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
